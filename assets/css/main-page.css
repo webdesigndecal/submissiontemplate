@@ -7,10 +7,11 @@ a {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 img {
-    width: 25%;
+    width: 50%;
 }
 
 h1 {
